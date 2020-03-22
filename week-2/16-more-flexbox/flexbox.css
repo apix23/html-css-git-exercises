@@ -29,8 +29,8 @@
   justify-content: center;
 }
 
-.country--ethiopia,
-.country--laos {
+.countries--fourth .country--ethiopia,
+.countries--fourth .country--laos {
   align-self: center;
 }
 
